@@ -1,6 +1,6 @@
 # Inheritance
 
-## 과제 ( 제 과제는 master banch에 있습니다 )
+## 과제
 
 사원의 종류는 다음과 같다 
 
